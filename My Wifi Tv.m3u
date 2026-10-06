@@ -10,9 +10,19 @@
 
 #EXTINF:-1, Colors Bangla HD 
 
-http://103.165.93.31:8095/colorsBangla/index.m3u8
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
+
+#EXTINF:-1, Colors Bangla HD 2
+
+https://ashtv.com.bd/server/channels/colors_bangla_hd.m3u8
+
 
 #EXTINF:-1, Star Jalsha HD 
+
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1, Star Jalsha HD 2
 
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
@@ -22,7 +32,8 @@ https://drk6xq0vhn.gpcdn.net//live/zee_bangla_abr/index.m3u8
 
 #EXTINF:-1, Zee Bangla HD (720p)
 
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+
 
 #EXTINF:-1, Zee Bangla Sonar 
 
@@ -37,6 +48,11 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1, Jalsha MOVIE HD 
 
 https://ashtv.com.bd/server/iptv/jmovies.m3u8
+
+
+#EXTINF:-1, Colors Bangla Cinema
+
+http://116.90.120.151:8000/play/a0jh/index.m3u8
 
 
 #EXTINF:-1, Amar Bangla Digital 
@@ -284,15 +300,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-vid
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
 
-#EXTINF:-1, TOFFEE Dramas
-
-https://toffee.marufhossainkeyas.workers.dev/03.m3u8
-
-
-#EXTINF:-1, TOFFEE Movies
-
-https://toffee.marufhossainkeyas.workers.dev/02.m3u8
-
 
  ⭐⭐⭐⭐⭐Hindi Channel  ⭐⭐⭐⭐⭐
 
@@ -309,7 +316,7 @@ https://drk6xq0vhn.gpcdn.net//live/and_picture_hd_abr/live/and_picture_hd_720/ch
 
 #EXTINF:-1, Z cinema HD 
 
-https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 
 
 #EXTINF:-1, Star  movie HD 
@@ -322,20 +329,9 @@ http://10.10.10.10:8088/501/index.m3u8?token=e4c7de4a346366e5208d06653d982862d48
 https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
 
 
-#EXTINF:-1, Sony 
+#EXTINF:-1, GOLDMINE MOVIES
 
-http://10.10.10.10:8088/403/index.m3u8?token=eee265e14daaaa17ac268da7b7dfae4ffe61138b-078e5166cc68a70b4fb9975eaa1ef8a7-1784916589-1784912989
-
-
-#EXTINF:-1, Star Gold HD
-
-http://10.10.10.10:8088/402/index.m3u8?token=0176b76da619dc202181fd4ccb99e1c989fecfb3-286d39ef2f37290d0e38fe0033bfaece-1784916571-1784912971
-
-
-#EXTINF:-1, Star Plus HD
-
-http://10.10.10.10:8088/401/tracks-v1a1/mono.m3u8?token=3d16c4de2299604f91cbd87711b1efc3e2874e95-b32e1f0732b4bbdc1f9172d5d5105245-1784916532-1784912932
-
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/tracks-v1a1/mono.m3u8
 
 ⭐⭐⭐⭐ Cartoon Network ⭐⭐⭐⭐
 
